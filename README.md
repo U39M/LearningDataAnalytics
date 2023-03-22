@@ -1,0 +1,2 @@
+# LearningDataAnalytics
+ポケモンのデータを用いてデータ分析の学習をする
