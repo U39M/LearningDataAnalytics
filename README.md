@@ -6,9 +6,10 @@
 ## ディレクトリ構成
 
 
-.
-├── data
-│   └── pokemon_data.xlsx
-├── src
-│   └── template.py
-└── README.md
+~~~
+ ├── data
+ │   └── pokemon_data.xlsx
+ ├── src
+ │   └── template.py
+ └── README.md
+~~~
