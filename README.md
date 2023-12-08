@@ -7,9 +7,12 @@
 
 
 ~~~
- ├── data
- │   └── pokemon_data.xlsx
- ├── src
- │   └── template.py
- └── README.md
+├── data
+│   └── pokemon_data.xlsx
+├── src
+│   ├── template.py
+│   ├── lesson2.py
+│   └── lesson3.py
+│
+└── README.md
 ~~~
