@@ -12,7 +12,8 @@
 ├── src
 │   ├── template.py
 │   ├── lesson2.py
-│   └── lesson3.py
+│   ├── lesson3.py
+│   └── lesson4.py
 │
 └── README.md
 ~~~
