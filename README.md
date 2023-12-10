@@ -14,7 +14,8 @@
 │   ├── lesson2.py
 │   ├── lesson3.py
 │   ├── lesson4.py
-│   └── lesson5.py
+│   ├── lesson5.py
+│   └── lesson6.py
 │
 └── README.md
 ~~~
